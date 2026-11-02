@@ -4,8 +4,8 @@
 
 **[여백 다운로드](https://yeobaek-writer.web.app)**
 
-- [Android APK 바로 다운로드](https://github.com/mawblanc/yeobaek-releases/releases/download/v1.1.9/Yeobaek-1.1.9-Android.apk)
-- [Windows 64비트 ZIP 바로 다운로드](https://github.com/mawblanc/yeobaek-releases/releases/download/v1.1.9/Yeobaek-1.1.9-Windows-x64.zip)
+- [Android APK 바로 다운로드](https://github.com/mawblanc/yeobaek-releases/releases/download/v1.1.10/Yeobaek-1.1.10-Android.apk)
+- [Windows 64비트 ZIP 바로 다운로드](https://github.com/mawblanc/yeobaek-releases/releases/download/v1.1.10/Yeobaek-1.1.10-Windows-x64.zip)
 
 Android는 내려받은 APK를 열어 설치합니다. Windows는 ZIP의 압축을 모두 푼 뒤 `여백.exe`를 실행합니다.
 
